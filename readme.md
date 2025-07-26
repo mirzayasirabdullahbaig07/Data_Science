@@ -59,53 +59,54 @@ To become a **System Design Expert** capable of architecting high-scale, fault-t
 
 ## 📐 System Design Case Studies
 
-| System | Concepts Practiced | Status |
-|--------|--------------------|--------|
-| URL Shortener (like Bit.ly) | Hashing, DB Design, API Rate Limits | ✅ |
-| Instagram Feed | Caching, Newsfeed Generation, Read-Write Balance | 🔄 |
-| WhatsApp Chat System | Real-Time Messaging, Queues, Database Sharding | 🔄 |
-| YouTube | Video Storage, Streaming, CDN | 🔄 |
-| Uber Backend | Geo Indexing, Real-time Matching, Pub/Sub | 🔄 |
+| System                   | Concepts Practiced                              | Status |
+|--------------------------|--------------------------------------------------|--------|
+| URL Shortener (Bit.ly)   | Hashing, DB Design, API Rate Limits              | ✅     |
+| Instagram Feed           | Caching, Newsfeed Generation, Read-Write Balance| 🔄     |
+| WhatsApp Chat System     | Real-Time Messaging, Queues, Database Sharding   | 🔄     |
+| YouTube                  | Video Storage, Streaming, CDN                    | 🔄     |
+| Uber Backend             | Geo Indexing, Real-time Matching, Pub/Sub        | 🔄     |
 
 ---
 
 ## 📚 Resources I'm Using
 
 - **Books**
-  - Designing Data-Intensive Applications – Martin Kleppmann
-  - System Design Interview Vol 1 & 2 – Alex Xu
+  - *Designing Data-Intensive Applications* — Martin Kleppmann
+  - *System Design Interview Vol 1 & 2* — Alex Xu
 
 - **Courses**
-  - System Design Primer (GitHub)
-  - Grokking the System Design Interview (Educative)
+  - [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+  - [Grokking the System Design Interview (Educative)](https://www.educative.io/courses/grokking-the-system-design-interview)
   - High Scalability blog
 
 - **YouTube Channels**
-  - Gaurav Sen
-  - Tech Dummies Narendra L
-  - CodeKarle
+  - [Gaurav Sen](https://www.youtube.com/c/GauravSen)
+  - [Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL)
+  - [CodeKarle](https://www.youtube.com/@CodeKarle)
 
 ---
 
 ## 🛠 Tools & Platforms
 
 - VS Code
-- Draw.io / Whimsical (for diagrams)
+- Draw.io / Whimsical (for architecture diagrams)
 - Git & GitHub
-- Postman / Swagger
-- Load Testing Tools (Apache JMeter, k6)
+- Postman / Swagger (for API testing)
+- Apache JMeter / k6 (for load testing)
 
 ---
 
 ## 🌐 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-🔗 ([[https://github.com](https://github.com/mirzayasirabdullahbaig07)/](https://github.com/mirzayasirabdullahbaig07))  
-🔗 [Portfolio Website or Linktree]([https://linktr.ee/](https://linktr.ee/mirzayasirabdullahbaig))
+🔗 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+🔗 [Linktree](https://linktr.ee/mirzayasirabdullahbaig)
 
 ---
 
 ## 🚧 In Progress
+
 - Building scalable system design diagrams
 - Writing notes on each key component
 - Practicing whiteboard interviews
@@ -115,9 +116,8 @@ To become a **System Design Expert** capable of architecting high-scale, fault-t
 
 ## 📌 Final Goal
 
-Secure an advanced engineering position where I contribute to designing backend systems at scale — and apply for **top tech companies** or research-based MS in CS (2026).
+Secure an advanced engineering position where I contribute to designing backend systems at scale — and apply for **top tech companies** or research-based **MS in Computer Science (2026)**.
 
 ---
 
-> "First make it work. Then make it right. Then make it fast." — Kent Beck
-
+> "First make it work. Then make it right. Then make it fast." — *Kent Beck*
