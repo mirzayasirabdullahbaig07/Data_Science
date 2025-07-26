@@ -1,15 +1,13 @@
-# 🧠 Data Science Learning Journey
+# 🏗️ System Design Learning Journey
 
-Welcome to my Data Science Learning Journey! 🚀  
-This repository documents my step-by-step progress in mastering data science — from the fundamentals of Python to advanced machine learning and deep learning techniques.
+Welcome to my **System Design Learning Journey!** 🚀  
+This repository documents my structured approach to mastering system design — from core fundamentals to designing scalable, distributed systems used by top tech companies.
 
 ---
 
 ## 🎯 Objective
 
-To become a **professional Data Scientist / Machine Learning Engineer** by mastering the necessary skills through hands-on projects, consistent practice, and real-world applications.
-
-#this is repo
+To become a **System Design Expert** capable of architecting high-scale, fault-tolerant, and efficient backend systems — essential for roles such as **Backend Engineer**, **System Architect**, or **SDE-2/3**.
 
 ---
 
@@ -20,105 +18,106 @@ To become a **professional Data Scientist / Machine Learning Engineer** by maste
 
 ---
 
-## 📚 Learning Path
+## 🧠 Core Learning Areas
 
-### 🧑‍💻 Programming Skills
-- ✅ Python Basics
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Python Libraries: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
-- 🔄 1000 Python Programs Challenge
-- 🔄 50 Python Mini Projects
-
----
-
-### 📊 Data Analysis & Visualization
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Cleaning & Preprocessing
-- 🔄 Data Wrangling Projects
-- 🔄 Interactive Dashboards with Plotly/Streamlit
+### ⚙️ System Design Fundamentals
+- ✅ Scalability
+- ✅ Load Balancing
+- ✅ Caching
+- ✅ Data Partitioning (Sharding)
+- ✅ Database Indexing
+- 🔄 CAP Theorem, Consistency, Availability, Partition Tolerance
+- 🔄 Latency vs Throughput
 
 ---
 
-### 📦 Machine Learning
-- ✅ Supervised Learning
-- ✅ Unsupervised Learning
-- 🔄 Model Evaluation Metrics (AUC, F1, RMSE, etc.)
-- 🔄 End-to-End ML Projects
+### ☁️ System Components
+- ✅ Web Servers & Application Servers
+- ✅ API Gateway
+- 🔄 Content Delivery Networks (CDNs)
+- 🔄 Relational vs NoSQL Databases
+- 🔄 Message Queues & Event-Driven Systems (Kafka, RabbitMQ)
+- 🔄 Object Storage (S3, GCS)
 
 ---
 
-### 🧠 Deep Learning
-- 🔄 Neural Networks (ANN, CNN, RNN)
-- 🔄 Frameworks: TensorFlow, Keras, PyTorch
-- 🔄 Transfer Learning
-- 🔄 Deep Learning Projects
+### 🔐 Security & Reliability
+- 🔄 Authentication & Authorization (OAuth, JWT)
+- 🔄 HTTPS, TLS
+- 🔄 Rate Limiting
+- 🔄 Circuit Breakers
+- 🔄 Health Checks, Failovers
 
 ---
 
-### 📈 Math for Data Science
-- ✅ Statistics & Probability
-- ✅ Linear Algebra
-- ✅ Calculus Basics
-- 🔄 Optimization Techniques
+### 🔍 Monitoring & Observability
+- ✅ Logging, Metrics, Alerts
+- 🔄 Prometheus, Grafana, ELK Stack
+- 🔄 Distributed Tracing
 
 ---
 
-### 🛢️ Databases
-- ✅ SQL (Advanced)
-- ✅ NoSQL (MongoDB)
-- 🔄 Real-World SQL Queries Practice
+## 📐 System Design Case Studies
+
+| System | Concepts Practiced | Status |
+|--------|--------------------|--------|
+| URL Shortener (like Bit.ly) | Hashing, DB Design, API Rate Limits | ✅ |
+| Instagram Feed | Caching, Newsfeed Generation, Read-Write Balance | 🔄 |
+| WhatsApp Chat System | Real-Time Messaging, Queues, Database Sharding | 🔄 |
+| YouTube | Video Storage, Streaming, CDN | 🔄 |
+| Uber Backend | Geo Indexing, Real-time Matching, Pub/Sub | 🔄 |
 
 ---
 
-### 💼 Projects
-| Project Title | Description | Status |
-|---------------|-------------|--------|
-| Exploratory Data Analysis on Titanic Dataset | EDA + Visualization | ✅ |
-| House Price Prediction | Regression Model | 🔄 |
-| Customer Segmentation | Clustering Model | 🔄 |
-| Resume Parser with ML | NLP Project | 🔄 |
-| Deep Learning Image Classifier | CNN | 🔄 |
+## 📚 Resources I'm Using
+
+- **Books**
+  - Designing Data-Intensive Applications – Martin Kleppmann
+  - System Design Interview Vol 1 & 2 – Alex Xu
+
+- **Courses**
+  - System Design Primer (GitHub)
+  - Grokking the System Design Interview (Educative)
+  - High Scalability blog
+
+- **YouTube Channels**
+  - Gaurav Sen
+  - Tech Dummies Narendra L
+  - CodeKarle
 
 ---
 
 ## 🛠 Tools & Platforms
-- Jupyter Notebook / VS Code
-- Kaggle / Google Colab
+
+- VS Code
+- Draw.io / Whimsical (for diagrams)
 - Git & GitHub
-- Weights & Biases (W&B)
-- Streamlit
-
----
-
-## 📜 Certifications
-- [x] Data Science with Python – IBM
-- [x] Data Structures – UC San Diego (Coursera)
-- [x] Prompt Engineering – Vanderbilt (Coursera)
-- [ ] Deep Learning Specialization – Andrew Ng (In Progress)
+- Postman / Swagger
+- Load Testing Tools (Apache JMeter, k6)
 
 ---
 
 ## 🌐 Connect with Me
 
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🔗 [GitHub](https://github.com/yourusername)  
-🔗 [Portfolio Website or Linktree](https://linktr.ee/yourlink)
+🔗 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
+🔗 ([[https://github.com](https://github.com/mirzayasirabdullahbaig07)/](https://github.com/mirzayasirabdullahbaig07))  
+🔗 [Portfolio Website or Linktree]([https://linktr.ee/](https://linktr.ee/mirzayasirabdullahbaig))
 
 ---
 
 ## 🚧 In Progress
-- Solving 300+ LeetCode Problems
-- Publishing 10+ Data Science Projects
-- Improving English Communication (Daily Practice)
-- Preparing for Interviews (ML + DSA + System Design)
+- Building scalable system design diagrams
+- Writing notes on each key component
+- Practicing whiteboard interviews
+- Participating in mock system design interviews
 
 ---
 
 ## 📌 Final Goal
 
-Secure a **Data Scientist / Machine Learning Engineer** role in a top tech company or research-based organization and pursue a **fully-funded MS in the USA (2026)**.
+Secure an advanced engineering position where I contribute to designing backend systems at scale — and apply for **top tech companies** or research-based MS in CS (2026).
 
 ---
 
-> "Consistency is more important than perfection." — Keep learning every day 💪
+> "First make it work. Then make it right. Then make it fast." — Kent Beck
 
