@@ -9,6 +9,8 @@ This repository documents my step-by-step progress in mastering data science —
 
 To become a **professional Data Scientist / Machine Learning Engineer** by mastering the necessary skills through hands-on projects, consistent practice, and real-world applications.
 
+#this is repo
+
 ---
 
 ## 📅 Timeline
